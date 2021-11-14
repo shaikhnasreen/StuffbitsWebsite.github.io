@@ -1,1 +1,1 @@
- Have a look on its home at  <http://StuffbitsTechnologies.github.io/SBTLWebsite/>.
+ Have a look on its home at  <https://StuffbitsWebsite.github.io>.
