@@ -1,2 +1,1 @@
-# StuffbitsWebsite.github.io
-use this to launch webpage StuffbitsWebsite.github.io
+ Have a look on its home at  <http://StuffbitsTechnologies.github.io/SBTLWebsite/>.
